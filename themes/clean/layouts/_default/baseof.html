@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <link rel="stylesheet" href="/css/style.css">
+  {{ if not .IsHome }}<link rel="canonical" href="{{ .Permalink }}">{{ end }}
+</head>
+<body>
+  <header>
+    <div class="container">
+      <a href="/" class="site-title">{{ .Site.Title }}</a>
+      <p class="site-desc">{{ .Site.Params.description }}</p>
+    </div>
+  </header>
+  <main class="container">
+    {{ block "main" . }}{{ end }}
+  </main>
+  <footer class="container">
+    <p>&copy; {{ now.Year }} {{ .Site.Title }} · <a href="/about">About</a></p>
+    <p class="disclosure">This site contains affiliate links. We may earn a commission at no extra cost to you.</p>
+  </footer>
+</body>
+</html>

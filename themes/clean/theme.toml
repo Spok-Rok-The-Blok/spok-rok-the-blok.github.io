@@ -1,0 +1,4 @@
+name = "clean"
+license = "MIT"
+description = "Minimal clean theme for affiliate blogs"
+min_version = "0.100.0"

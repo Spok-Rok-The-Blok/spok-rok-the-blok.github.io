@@ -1,0 +1,17 @@
+baseURL = "https://charlie-ai-tools.github.io/"
+languageCode = "en-us"
+title = "AI Tools for Small Business"
+theme = "clean"
+
+[params]
+  author = "Spok HQ Research Team"
+  description = "Honest reviews and comparisons of AI tools for small business owners and solopreneurs."
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
