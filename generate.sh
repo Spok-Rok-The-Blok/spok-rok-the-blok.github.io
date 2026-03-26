@@ -101,17 +101,25 @@ SLUG=$(echo "$KEYWORD" | tr '[:upper:]' '[:lower:]' | sed 's/[^a-z0-9 ]//g' | tr
 DATE=$(date +%Y-%m-%d)
 FILENAME="${CONTENT_DIR}/${DATE}-${SLUG}.md"
 
+# Affiliate links
+SYSTEME_URL="https://systeme.io/?sa=sa0267131685129e77387d3fa97cf89da7b07af0d7"
+FRASE_URL=""       # TODO: add when available
+SEMRUSH_URL=""     # TODO: add when available
+HUBSPOT_URL=""     # TODO: add when available
+GETRESPONSE_URL="" # TODO: add when available
+
 # Pick primary affiliate based on keyword content
 AFFILIATE=""
+AFFILIATE_URL=""
 case "$KEYWORD" in
-  *CRM*|*crm*) AFFILIATE="HubSpot" ;;
-  *SEO*|*seo*|*semrush*) AFFILIATE="SEMrush" ;;
-  *email*|*Email*) AFFILIATE="GetResponse" ;;
-  *accounting*|*bookkeeping*|*invoice*|*payroll*) AFFILIATE="Systeme.io" ;;
-  *project*|*manage*) AFFILIATE="Notion" ;;
-  *writing*|*content*|*copy*) AFFILIATE="Writesonic" ;;
-  *landing*|*site*|*builder*) AFFILIATE="10Web" ;;
-  *) AFFILIATE="Systeme.io" ;;
+  *CRM*|*crm*) AFFILIATE="HubSpot" ; AFFILIATE_URL="$HUBSPOT_URL" ;;
+  *SEO*|*seo*|*semrush*) AFFILIATE="SEMrush" ; AFFILIATE_URL="$SEMRUSH_URL" ;;
+  *email*|*Email*) AFFILIATE="GetResponse" ; AFFILIATE_URL="$GETRESPONSE_URL" ;;
+  *accounting*|*bookkeeping*|*invoice*|*payroll*) AFFILIATE="Systeme.io" ; AFFILIATE_URL="$SYSTEME_URL" ;;
+  *project*|*manage*) AFFILIATE="Notion" ; AFFILIATE_URL="$SYSTEME_URL" ;;
+  *writing*|*content*|*copy*) AFFILIATE="Writesonic" ; AFFILIATE_URL="$FRASE_URL" ;;
+  *landing*|*site*|*builder*) AFFILIATE="10Web" ; AFFILIATE_URL="$SYSTEME_URL" ;;
+  *) AFFILIATE="Systeme.io" ; AFFILIATE_URL="$SYSTEME_URL" ;;
 esac
 
 # Strip any surrounding quotes from title
@@ -129,6 +137,7 @@ description: "Honest review and comparison of ${KEYWORD} options for small busin
 categories: ["AI Tools", "Small Business"]
 tags: ["small business", "AI tools", "review"]
 affiliate: "$AFFILIATE"
+affiliateUrl: "$AFFILIATE_URL"
 ---
 
 $BODY
