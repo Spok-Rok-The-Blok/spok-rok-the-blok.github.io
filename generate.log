@@ -205,3 +205,102 @@ Total in 60 ms
 Total in 60 ms
 [Fri Mar 27 02:05:00 AM EDT 2026] Pushing to GitHub...
 [Fri Mar 27 02:05:00 AM EDT 2026] Pushing to GitHub...
+[master cbde976] content: nightly build 2026-03-27
+ 79 files changed, 2394 insertions(+), 61 deletions(-)
+ create mode 100644 content/posts/2026-03-27-ai-email-marketing-automation-for-small-business.md
+ create mode 100644 content/posts/2026-03-27-ai-prompts-coaches-therapists.md
+ create mode 100644 generate-articles.py
+ create mode 100644 product-articles/product-article-01-chatgpt-prompts-small-business.md
+ create mode 100644 product-articles/product-article-02-email-templates-ai-business.md
+ create mode 100644 product-articles/product-article-03-ai-tools-cheat-sheet-2026.md
+ create mode 100644 product-articles/product-article-04-20-ai-agent-workflows.md
+ create mode 100644 product-articles/product-article-05-ai-automation-blueprint.md
+ create mode 100644 product-articles/product-article-06-openclaw-quickstart-guide.md
+ create mode 100644 product-articles/product-article-07-freelancer-rate-proposal-toolkit.md
+ create mode 100644 product-articles/product-article-08-90-day-social-content-calendar.md
+ create mode 100644 product-articles/product-article-09-chatgpt-customer-service-templates.md
+ create mode 100644 product-articles/product-article-10-solopreneur-legal-starter-pack.md
+ create mode 100644 product-articles/product-article-11-ai-prompts-etsy-sellers.md
+ create mode 100644 product-articles/product-article-12-cold-outreach-playbook.md
+ create mode 100644 product-articles/product-article-13-ai-prompts-coaches-consultants.md
+ create mode 100644 product-articles/product-article-14-youtube-content-creator-toolkit.md
+ create mode 100644 product-articles/product-article-15-ai-tools-real-estate-agents.md
+ create mode 100644 product-articles/product-article-16-notion-templates-freelancers.md
+ create mode 100644 product-articles/product-article-17-content-repurposing-playbook.md
+ create mode 100644 product-articles/product-article-18-instagram-growth-templates.md
+ create mode 100644 product-articles/product-article-19-seo-checklist-bloggers.md
+ create mode 100644 product-articles/product-article-20-ai-writing-toolkit-course-creators.md
+ create mode 100644 product-articles/product-article-21-client-onboarding-kit.md
+ create mode 100644 product-articles/product-article-22-solopreneur-productivity-system.md
+ create mode 100644 product-articles/product-article-23-email-newsletter-templates.md
+ create mode 100644 product-articles/product-article-24-side-hustle-launch-checklist.md
+ create mode 100644 product-articles/product-article-25-linkedin-content-calendar.md
+ create mode 100644 product-articles/product-article-26-podcast-launch-kit.md
+ create mode 100644 product-articles/product-article-27-freelancer-pricing-strategy-guide.md
+ create mode 100644 product-articles/product-article-28-digital-product-launch-checklist.md
+ create mode 100644 product-articles/product-article-29-pinterest-marketing-templates.md
+ create mode 100644 product-articles/published/product-article-30-ai-prompts-coaches-therapists.md
+ create mode 100644 product-articles/queue-state.json
+ create mode 100644 public/categories/digital-products/index.html
+ create mode 100644 public/categories/digital-products/index.xml
+ create mode 100644 public/posts/2026-03-27-ai-email-marketing-automation-for-small-business/index.html
+ create mode 100644 public/posts/2026-03-27-ai-prompts-coaches-therapists/index.html
+ create mode 100644 public/tags/ai-prompts/index.html
+ create mode 100644 public/tags/ai-prompts/index.xml
+ create mode 100644 public/tags/client-resources/index.html
+ create mode 100644 public/tags/client-resources/index.xml
+ create mode 100644 public/tags/coaching/index.html
+ create mode 100644 public/tags/coaching/index.xml
+ create mode 100644 public/tags/productivity/index.html
+ create mode 100644 public/tags/productivity/index.xml
+ create mode 100644 public/tags/therapy/index.html
+ create mode 100644 public/tags/therapy/index.xml
+ create mode 100755 publish-queued.sh
+To https://github.com/the-age-of-ai/the-age-of-ai.github.io.git
+   4f2925e..cbde976  master -> master
+To https://github.com/the-age-of-ai/the-age-of-ai.github.io.git
+   4f2925e..cbde976  master -> master
+[Fri Mar 27 02:05:01 AM EDT 2026] Deploy complete.
+[Fri Mar 27 02:05:01 AM EDT 2026] Deploy complete.
+[Fri Mar 27 02:30:01 AM EDT 2026] Checking product article queue...
+[Fri Mar 27 02:30:01 AM EDT 2026] Checking product article queue...
+[Fri Mar 27 02:30:01 AM EDT 2026] === Checking product article queue ===
+[Fri Mar 27 02:30:01 AM EDT 2026] === Checking product article queue ===
+[Fri Mar 27 02:30:01 AM EDT 2026] === Checking product article queue ===
+[Fri Mar 27 02:30:01 AM EDT 2026] Published recently (0 days ago). Skipping.
+[Fri Mar 27 02:30:01 AM EDT 2026] Published recently (0 days ago). Skipping.
+[Fri Mar 27 02:30:01 AM EDT 2026] Published recently (0 days ago). Skipping.
+[Fri Mar 27 02:30:01 AM EDT 2026] Building Hugo site...
+[Fri Mar 27 02:30:01 AM EDT 2026] Building Hugo site...
+Start building sites … 
+hugo v0.123.7+extended linux/amd64 BuildDate=2025-07-18T03:41:49Z VendorInfo=ubuntu:0.123.7-1ubuntu0.3
+
+Start building sites … 
+hugo v0.123.7+extended linux/amd64 BuildDate=2025-07-18T03:41:49Z VendorInfo=ubuntu:0.123.7-1ubuntu0.3
+
+
+
+                    | EN                    | EN  
+-
+-------------------+------------------+-----
+-----
+    Pages            Pages            | | 3737  
+  
+    Paginator pages  Paginator pages  | |  0   0  
+  
+  Non-page files   Non-page files   | |  0   0  
+ 
+   Static files     Static files     |  1|  1    
+  
+  Processed images Processed images |  0|  0    
+  
+  Aliases          Aliases          | |  0   0  
+  
+  Cleaned          Cleaned          |  0|  0    
+
+
+
+Total in 26 ms
+Total in 26 ms
+[Fri Mar 27 02:30:01 AM EDT 2026] Pushing to GitHub...
+[Fri Mar 27 02:30:01 AM EDT 2026] Pushing to GitHub...
