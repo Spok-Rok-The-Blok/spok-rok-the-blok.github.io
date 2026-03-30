@@ -1,7 +1,7 @@
 {
   "ranked": [
     {
-      "file": "product-article-04-20-ai-agent-workflows.md",
+      "file": "000-product-article-04-20-ai-agent-workflows.md",
       "score": 5,
       "matchedOn": "agent"
     },
@@ -146,7 +146,7 @@
       "matchedOn": ""
     }
   ],
-  "topMatch": "product-article-04-20-ai-agent-workflows.md",
+  "topMatch": "000-product-article-04-20-ai-agent-workflows.md",
   "topMatchScore": 5,
   "topMatchKeywords": "agent"
 }
