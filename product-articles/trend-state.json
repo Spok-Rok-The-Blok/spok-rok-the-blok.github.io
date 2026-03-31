@@ -1,24 +1,19 @@
 {
   "ranked": [
     {
-      "file": "product-article-14-youtube-content-creator-toolkit.md",
-      "score": 2,
-      "matchedOn": "youtube, video"
-    },
-    {
       "file": "product-article-06-openclaw-quickstart-guide.md",
       "score": 2,
       "matchedOn": "ai agent"
     },
     {
+      "file": "000-product-article-14-youtube-content-creator-toolkit.md",
+      "score": 2,
+      "matchedOn": "youtube, video"
+    },
+    {
       "file": "product-article-29-pinterest-marketing-templates.md",
       "score": 1,
       "matchedOn": "visual"
-    },
-    {
-      "file": "product-article-22-solopreneur-productivity-system.md",
-      "score": 1,
-      "matchedOn": "system"
     },
     {
       "file": "product-article-16-notion-templates-freelancers.md",
@@ -52,6 +47,11 @@
     },
     {
       "file": "product-article-23-email-newsletter-templates.md",
+      "score": 0,
+      "matchedOn": ""
+    },
+    {
+      "file": "product-article-22-solopreneur-productivity-system.md",
       "score": 0,
       "matchedOn": ""
     },
@@ -141,7 +141,7 @@
       "matchedOn": ""
     }
   ],
-  "topMatch": "product-article-14-youtube-content-creator-toolkit.md",
+  "topMatch": "product-article-06-openclaw-quickstart-guide.md",
   "topMatchScore": 2,
-  "topMatchKeywords": "youtube, video"
+  "topMatchKeywords": "ai agent"
 }
