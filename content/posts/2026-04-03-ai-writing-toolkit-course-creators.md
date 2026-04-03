@@ -1,6 +1,6 @@
 ---
 title: "How to Write Online Course Content Faster with AI Tools"
-date: 2026-03-26
+date: 2026-04-03
 draft: false
 description: "Struggling to create online course content? Learn how AI tools can help you write faster and better with practical tips."
 categories: ["AI Tools", "Digital Products"]

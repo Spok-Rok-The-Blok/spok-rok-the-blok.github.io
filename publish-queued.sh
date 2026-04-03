@@ -81,3 +81,19 @@ print('State updated')
 
 echo "[$(date)] Queue: $TOTAL_REMAINING articles remaining" | tee -a "$LOG"
 echo "[$(date)] PUBLISHED_ARTICLE: $DEST" | tee -a "$LOG"
+
+# --- Medium co-publish ---
+# Derive the live URL from the filename
+POST_SLUG=$(basename "$DEST" .md)
+LIVE_URL="https://the-age-of-ai.github.io/posts/${POST_SLUG}/"
+CANONICAL_URL="$LIVE_URL"
+
+echo "[$(date)] Queuing Medium import: $LIVE_URL" | tee -a "$LOG"
+
+# Wait 90 seconds for GitHub Pages to deploy before importing
+(
+  sleep 90
+  node /home/charlie/.openclaw/workspace/blog/medium-publish.js "$LIVE_URL" "$CANONICAL_URL" >> "$LOG" 2>&1
+) &
+
+echo "[$(date)] Medium import queued (fires in 90s after Pages deploy)." | tee -a "$LOG"

@@ -1,0 +1,9 @@
+{
+  "name": "medium-publisher",
+  "version": "1.0.0",
+  "description": "Medium auto-publish via Playwright",
+  "private": true,
+  "dependencies": {
+    "playwright": "^1.43.0"
+  }
+}
