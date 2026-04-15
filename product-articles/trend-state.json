@@ -1,36 +1,6 @@
 {
   "ranked": [
     {
-      "file": "product-article-19-seo-checklist-bloggers.md",
-      "score": 2,
-      "matchedOn": "seo, blog"
-    },
-    {
-      "file": "product-article-17-content-repurposing-playbook.md",
-      "score": 2,
-      "matchedOn": "content"
-    },
-    {
-      "file": "product-article-14-youtube-content-creator-toolkit.md",
-      "score": 2,
-      "matchedOn": "content"
-    },
-    {
-      "file": "product-article-08-90-day-social-content-calendar.md",
-      "score": 2,
-      "matchedOn": "content"
-    },
-    {
-      "file": "000-product-article-25-linkedin-content-calendar.md",
-      "score": 2,
-      "matchedOn": "content"
-    },
-    {
-      "file": "product-article-22-solopreneur-productivity-system.md",
-      "score": 1,
-      "matchedOn": "system"
-    },
-    {
       "file": "product-article-10-solopreneur-legal-starter-pack.md",
       "score": 1,
       "matchedOn": "nda"
@@ -51,6 +21,11 @@
       "matchedOn": ""
     },
     {
+      "file": "product-article-25-linkedin-content-calendar.md",
+      "score": 0,
+      "matchedOn": ""
+    },
+    {
       "file": "product-article-24-side-hustle-launch-checklist.md",
       "score": 0,
       "matchedOn": ""
@@ -61,12 +36,22 @@
       "matchedOn": ""
     },
     {
+      "file": "product-article-22-solopreneur-productivity-system.md",
+      "score": 0,
+      "matchedOn": ""
+    },
+    {
       "file": "product-article-21-client-onboarding-kit.md",
       "score": 0,
       "matchedOn": ""
     },
     {
       "file": "product-article-18-instagram-growth-templates.md",
+      "score": 0,
+      "matchedOn": ""
+    },
+    {
+      "file": "product-article-17-content-repurposing-playbook.md",
       "score": 0,
       "matchedOn": ""
     },
@@ -101,6 +86,11 @@
       "matchedOn": ""
     },
     {
+      "file": "product-article-08-90-day-social-content-calendar.md",
+      "score": 0,
+      "matchedOn": ""
+    },
+    {
       "file": "product-article-07-freelancer-rate-proposal-toolkit.md",
       "score": 0,
       "matchedOn": ""
@@ -119,9 +109,14 @@
       "file": "product-article-01-chatgpt-prompts-small-business.md",
       "score": 0,
       "matchedOn": ""
+    },
+    {
+      "file": "000-product-article-19-seo-checklist-bloggers.md",
+      "score": 0,
+      "matchedOn": ""
     }
   ],
-  "topMatch": "product-article-19-seo-checklist-bloggers.md",
-  "topMatchScore": 2,
-  "topMatchKeywords": "seo, blog"
+  "topMatch": "product-article-10-solopreneur-legal-starter-pack.md",
+  "topMatchScore": 1,
+  "topMatchKeywords": "nda"
 }
