@@ -1,6 +1,6 @@
 ---
 title: "How to Repurpose Content for Social Media Without Wasting Hours"
-date: 2026-03-26
+date: 2026-04-18
 draft: false
 description: "Learn how to repurpose content for social media fast and effectively. Save time and grow your audience with proven strategies."
 categories: ["AI Tools", "Digital Products"]
