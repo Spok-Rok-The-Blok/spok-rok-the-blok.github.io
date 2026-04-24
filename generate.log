@@ -2854,3 +2854,63 @@ hugo v0.123.7+extended linux/amd64 BuildDate=2025-07-18T03:41:49Z VendorInfo=ubu
 
 Total in 77 ms
 [Thu Apr 23 02:30:01 AM EDT 2026] Pushing to GitHub...
+[master 9f1bb43] content: nightly build 2026-04-23
+ 27 files changed, 214 insertions(+), 14 deletions(-)
+ create mode 100644 content/posts/2026-04-23-ai-chatbot-for-small-business-website.md
+ create mode 100644 public/posts/2026-04-23-ai-chatbot-for-small-business-website/index.html
+ create mode 100644 public/tags/ai-chatbots/index.html
+ create mode 100644 public/tags/ai-chatbots/index.xml
+ create mode 100644 public/tags/digital-marketing-tips/index.html
+ create mode 100644 public/tags/digital-marketing-tips/index.xml
+ create mode 100644 public/tags/entrepreneur-resources/index.html
+ create mode 100644 public/tags/entrepreneur-resources/index.xml
+ create mode 100644 public/tags/online-customer-support/index.html
+ create mode 100644 public/tags/online-customer-support/index.xml
+ create mode 100644 public/tags/small-business-solutions/index.html
+ create mode 100644 public/tags/small-business-solutions/index.xml
+To https://github.com/the-age-of-ai/the-age-of-ai.github.io.git
+   e149274..9f1bb43  master -> master
+[Thu Apr 23 02:30:03 AM EDT 2026] Deploy complete.
+[Fri Apr 24 02:00:01 AM EDT 2026] === Starting generation run ===
+[Fri Apr 24 02:00:01 AM EDT 2026] Keyword: AI hiring tools for small business
+[Fri Apr 24 02:00:01 AM EDT 2026] Generating title...
+[Fri Apr 24 02:00:14 AM EDT 2026] Title: AI hiring tools for small business growth in 2026
+[Fri Apr 24 02:00:14 AM EDT 2026] Generating meta description...
+[Fri Apr 24 02:00:23 AM EDT 2026] Meta: "Unlock scalable talent with AI hiring tools for small business in 2026, and accelerate growth without compromising quality. Find the right fit."
+[Fri Apr 24 02:00:23 AM EDT 2026] Generating article body...
+[Fri Apr 24 02:03:50 AM EDT 2026] Generating tags...
+[Fri Apr 24 02:03:56 AM EDT 2026] Saved: ./content/posts/2026-04-24-ai-hiring-tools-for-small-business.md
+[Fri Apr 24 02:03:56 AM EDT 2026] === Run complete ===
+[Fri Apr 24 02:30:01 AM EDT 2026] Checking product article queue...
+[Fri Apr 24 02:30:01 AM EDT 2026] === Checking product article queue ===
+[Fri Apr 24 02:30:01 AM EDT 2026] === Checking product article queue ===
+[Fri Apr 24 02:30:01 AM EDT 2026] Publishing: product-article-18-instagram-growth-templates.md
+[Fri Apr 24 02:30:01 AM EDT 2026] Publishing: product-article-18-instagram-growth-templates.md
+[Fri Apr 24 02:30:01 AM EDT 2026] Published: /home/charlie/.openclaw/workspace/blog/content/posts/2026-04-24-instagram-growth-templates.md
+[Fri Apr 24 02:30:01 AM EDT 2026] Published: /home/charlie/.openclaw/workspace/blog/content/posts/2026-04-24-instagram-growth-templates.md
+State updated
+[Fri Apr 24 02:30:01 AM EDT 2026] Queue: 18 articles remaining
+[Fri Apr 24 02:30:01 AM EDT 2026] Queue: 18 articles remaining
+[Fri Apr 24 02:30:01 AM EDT 2026] PUBLISHED_ARTICLE: /home/charlie/.openclaw/workspace/blog/content/posts/2026-04-24-instagram-growth-templates.md
+[Fri Apr 24 02:30:01 AM EDT 2026] PUBLISHED_ARTICLE: /home/charlie/.openclaw/workspace/blog/content/posts/2026-04-24-instagram-growth-templates.md
+[Fri Apr 24 02:30:01 AM EDT 2026] Queuing Medium import: https://the-age-of-ai.github.io/posts/2026-04-24-instagram-growth-templates/
+[Fri Apr 24 02:30:01 AM EDT 2026] Queuing Medium import: https://the-age-of-ai.github.io/posts/2026-04-24-instagram-growth-templates/
+[Fri Apr 24 02:30:01 AM EDT 2026] Medium import queued (fires in 90s after Pages deploy).
+[Fri Apr 24 02:30:01 AM EDT 2026] Medium import queued (fires in 90s after Pages deploy).
+[Fri Apr 24 02:30:01 AM EDT 2026] Building Hugo site...
+Start building sites … 
+hugo v0.123.7+extended linux/amd64 BuildDate=2025-07-18T03:41:49Z VendorInfo=ubuntu:0.123.7-1ubuntu0.3
+
+
+                   | EN   
+-------------------+------
+  Pages            | 197  
+  Paginator pages  |   0  
+  Non-page files   |   0  
+  Static files     |   2  
+  Processed images |   0  
+  Aliases          |   0  
+  Cleaned          |   0  
+
+Total in 90 ms
+[Fri Apr 24 02:30:02 AM EDT 2026] Pushing to GitHub...

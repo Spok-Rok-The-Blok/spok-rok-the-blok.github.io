@@ -1,6 +1,6 @@
 ---
 title: "How to Grow Your Instagram Following as a Solopreneur Without Wasting Hours"
-date: 2026-03-26
+date: 2026-04-24
 draft: false
 description: "Struggling to grow on Instagram? Learn actionable tips for solopreneurs and get templates to save time and boost engagement."
 categories: ["AI Tools", "Digital Products"]
