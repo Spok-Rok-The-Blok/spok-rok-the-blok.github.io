@@ -1,6 +1,6 @@
 ---
 title: "How to Create Coaching Content Faster with AI Prompts"
-date: 2026-03-26
+date: 2026-04-26
 draft: false
 description: "Struggling to create coaching content? Learn how AI prompts can save time and boost ideas for coaches and consultants."
 categories: ["AI Tools", "Digital Products"]

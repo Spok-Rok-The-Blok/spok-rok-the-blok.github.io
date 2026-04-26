@@ -3012,3 +3012,59 @@ hugo v0.123.7+extended linux/amd64 BuildDate=2025-07-18T03:41:49Z VendorInfo=ubu
 
 Total in 99 ms
 [Sat Apr 25 02:30:01 AM EDT 2026] Pushing to GitHub...
+[master db9e8bb] content: nightly build 2026-04-25
+ 27 files changed, 218 insertions(+), 18 deletions(-)
+ create mode 100644 content/posts/2026-04-25-ai-tools-for-restaurant-owners.md
+ create mode 100644 public/posts/2026-04-25-ai-tools-for-restaurant-owners/index.html
+ create mode 100644 public/tags/food-industry-technology/index.html
+ create mode 100644 public/tags/food-industry-technology/index.xml
+ create mode 100644 public/tags/restaurant-management/index.html
+ create mode 100644 public/tags/restaurant-management/index.xml
+ create mode 100644 public/tags/small-business-owners/index.html
+ create mode 100644 public/tags/small-business-owners/index.xml
+To https://github.com/the-age-of-ai/the-age-of-ai.github.io.git
+   e8ce61e..db9e8bb  master -> master
+[Sat Apr 25 02:30:03 AM EDT 2026] Deploy complete.
+[Sun Apr 26 02:00:01 AM EDT 2026] === Starting generation run ===
+[Sun Apr 26 02:00:01 AM EDT 2026] Keyword: AI tools for contractors and tradespeople
+[Sun Apr 26 02:00:01 AM EDT 2026] Generating title...
+[Sun Apr 26 02:00:15 AM EDT 2026] Title: AI tools for contractors and tradespeople top picks in 2026
+[Sun Apr 26 02:00:15 AM EDT 2026] Generating meta description...
+[Sun Apr 26 02:00:24 AM EDT 2026] Meta: "Boost efficiency and stay ahead of the game with AI tools for contractors and tradespeople. Discover top picks to simplify your workflow and unlock new op
+[Sun Apr 26 02:00:24 AM EDT 2026] Generating article body...
+[Sun Apr 26 02:03:18 AM EDT 2026] Generating tags...
+[Sun Apr 26 02:03:23 AM EDT 2026] Saved: ./content/posts/2026-04-26-ai-tools-for-contractors-and-tradespeople.md
+[Sun Apr 26 02:03:23 AM EDT 2026] === Run complete ===
+[Sun Apr 26 02:30:01 AM EDT 2026] Checking product article queue...
+[Sun Apr 26 02:30:01 AM EDT 2026] === Checking product article queue ===
+[Sun Apr 26 02:30:01 AM EDT 2026] === Checking product article queue ===
+[Sun Apr 26 02:30:01 AM EDT 2026] Publishing: product-article-13-ai-prompts-coaches-consultants.md
+[Sun Apr 26 02:30:01 AM EDT 2026] Publishing: product-article-13-ai-prompts-coaches-consultants.md
+[Sun Apr 26 02:30:01 AM EDT 2026] Published: /home/charlie/.openclaw/workspace/blog/content/posts/2026-04-26-ai-prompts-coaches-consultants.md
+[Sun Apr 26 02:30:01 AM EDT 2026] Published: /home/charlie/.openclaw/workspace/blog/content/posts/2026-04-26-ai-prompts-coaches-consultants.md
+State updated
+[Sun Apr 26 02:30:01 AM EDT 2026] Queue: 17 articles remaining
+[Sun Apr 26 02:30:01 AM EDT 2026] Queue: 17 articles remaining
+[Sun Apr 26 02:30:01 AM EDT 2026] PUBLISHED_ARTICLE: /home/charlie/.openclaw/workspace/blog/content/posts/2026-04-26-ai-prompts-coaches-consultants.md
+[Sun Apr 26 02:30:01 AM EDT 2026] PUBLISHED_ARTICLE: /home/charlie/.openclaw/workspace/blog/content/posts/2026-04-26-ai-prompts-coaches-consultants.md
+[Sun Apr 26 02:30:01 AM EDT 2026] Queuing Medium import: https://the-age-of-ai.github.io/posts/2026-04-26-ai-prompts-coaches-consultants/
+[Sun Apr 26 02:30:01 AM EDT 2026] Queuing Medium import: https://the-age-of-ai.github.io/posts/2026-04-26-ai-prompts-coaches-consultants/
+[Sun Apr 26 02:30:01 AM EDT 2026] Medium import queued (fires in 90s after Pages deploy).
+[Sun Apr 26 02:30:01 AM EDT 2026] Medium import queued (fires in 90s after Pages deploy).
+[Sun Apr 26 02:30:01 AM EDT 2026] Building Hugo site...
+Start building sites … 
+hugo v0.123.7+extended linux/amd64 BuildDate=2025-07-18T03:41:49Z VendorInfo=ubuntu:0.123.7-1ubuntu0.3
+
+
+                   | EN   
+-------------------+------
+  Pages            | 212  
+  Paginator pages  |   0  
+  Non-page files   |   0  
+  Static files     |   2  
+  Processed images |   0  
+  Aliases          |   0  
+  Cleaned          |   0  
+
+Total in 60 ms
+[Sun Apr 26 02:30:01 AM EDT 2026] Pushing to GitHub...
