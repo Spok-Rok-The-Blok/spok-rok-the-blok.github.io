@@ -3068,3 +3068,89 @@ hugo v0.123.7+extended linux/amd64 BuildDate=2025-07-18T03:41:49Z VendorInfo=ubu
 
 Total in 60 ms
 [Sun Apr 26 02:30:01 AM EDT 2026] Pushing to GitHub...
+[master 013b4fe] content: nightly build 2026-04-26
+ 41 files changed, 234 insertions(+), 34 deletions(-)
+ create mode 100644 content/posts/2026-04-26-ai-prompts-coaches-consultants.md
+ create mode 100644 content/posts/2026-04-26-ai-tools-for-contractors-and-tradespeople.md
+ rename product-articles/{ => published}/product-article-13-ai-prompts-coaches-consultants.md (98%)
+ create mode 100644 public/posts/2026-04-26-ai-prompts-coaches-consultants/index.html
+ create mode 100644 public/posts/2026-04-26-ai-tools-for-contractors-and-tradespeople/index.html
+ create mode 100644 public/tags/content-creation/index.html
+ create mode 100644 public/tags/content-creation/index.xml
+ create mode 100644 public/tags/contractor-tools/index.html
+ create mode 100644 public/tags/contractor-tools/index.xml
+ create mode 100644 public/tags/trade-management/index.html
+ create mode 100644 public/tags/trade-management/index.xml
+To https://github.com/the-age-of-ai/the-age-of-ai.github.io.git
+   db9e8bb..013b4fe  master -> master
+[Sun Apr 26 02:30:03 AM EDT 2026] Deploy complete.
+[2026-04-26T06:31:32.246Z] [medium] Starting batch of 1 post(s). Opening browser window...
+[2026-04-26T06:31:32.246Z] [medium] Starting batch of 1 post(s). Opening browser window...
+[2026-04-26T06:31:32.491Z] [medium] FATAL: browserType.launch: Failed to launch the browser process.
+Browser logs:
+
+╔════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ Looks like you launched a headed browser without having a XServer running.                     ║
+║ Set either 'headless: true' or use 'xvfb-run <your-playwright-app>' before running Playwright. ║
+║                                                                                                ║
+║ <3 Playwright Team                                                                             ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════╝
+Call log:
+  - <launching> /home/charlie/.cache/ms-playwright/firefox-1511/firefox/firefox -no-remote -wait-for-browser -foreground -profile /tmp/playwright_firefoxdev_profile-j8ZYTT -juggler-pipe -silent
+  - <launched> pid=231148
+  - [pid=231148][err] [231150] Sandbox: CanCreateUserNamespace() unshare(CLONE_NEWPID): EPERM
+  - [pid=231148][err] Error: no DISPLAY environment variable specified
+  - [pid=231148] <process did exit: exitCode=1, signal=null>
+  - [pid=231148] starting temporary directories cleanup
+  - [pid=231148] <gracefully close start>
+  - [pid=231148] <kill>
+  - [pid=231148] <skipped force kill spawnedProcess.killed=false processClosed=true>
+  - [pid=231148] finished temporary directories cleanup
+  - [pid=231148] <gracefully close end>
+
+[2026-04-26T06:31:32.491Z] [medium] FATAL: browserType.launch: Failed to launch the browser process.
+Browser logs:
+
+╔════════════════════════════════════════════════════════════════════════════════════════════════╗
+║ Looks like you launched a headed browser without having a XServer running.                     ║
+║ Set either 'headless: true' or use 'xvfb-run <your-playwright-app>' before running Playwright. ║
+║                                                                                                ║
+║ <3 Playwright Team                                                                             ║
+╚════════════════════════════════════════════════════════════════════════════════════════════════╝
+Call log:
+  - <launching> /home/charlie/.cache/ms-playwright/firefox-1511/firefox/firefox -no-remote -wait-for-browser -foreground -profile /tmp/playwright_firefoxdev_profile-j8ZYTT -juggler-pipe -silent
+  - <launched> pid=231148
+  - [pid=231148][err] [231150] Sandbox: CanCreateUserNamespace() unshare(CLONE_NEWPID): EPERM
+  - [pid=231148][err] Error: no DISPLAY environment variable specified
+  - [pid=231148] <process did exit: exitCode=1, signal=null>
+  - [pid=231148] starting temporary directories cleanup
+  - [pid=231148] <gracefully close start>
+  - [pid=231148] <kill>
+  - [pid=231148] <skipped force kill spawnedProcess.killed=false processClosed=true>
+  - [pid=231148] finished temporary directories cleanup
+  - [pid=231148] <gracefully close end>
+
+[Mon Apr 27 02:00:01 AM EDT 2026] === Starting generation run ===
+[Mon Apr 27 02:00:01 AM EDT 2026] No unused keywords left. Add more to keywords.txt
+[Mon Apr 27 02:30:01 AM EDT 2026] Checking product article queue...
+[Mon Apr 27 02:30:01 AM EDT 2026] === Checking product article queue ===
+[Mon Apr 27 02:30:01 AM EDT 2026] === Checking product article queue ===
+[Mon Apr 27 02:30:01 AM EDT 2026] Published recently (1 days ago). Skipping.
+[Mon Apr 27 02:30:01 AM EDT 2026] Published recently (1 days ago). Skipping.
+[Mon Apr 27 02:30:01 AM EDT 2026] Building Hugo site...
+Start building sites … 
+hugo v0.123.7+extended linux/amd64 BuildDate=2025-07-18T03:41:49Z VendorInfo=ubuntu:0.123.7-1ubuntu0.3
+
+
+                   | EN   
+-------------------+------
+  Pages            | 212  
+  Paginator pages  |   0  
+  Non-page files   |   0  
+  Static files     |   2  
+  Processed images |   0  
+  Aliases          |   0  
+  Cleaned          |   0  
+
+Total in 104 ms
+[Mon Apr 27 02:30:02 AM EDT 2026] Pushing to GitHub...
